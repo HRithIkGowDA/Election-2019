@@ -1,0 +1,20 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Hrithik
+    given-names: Gowda
+  -
+    family-names: Mehta
+    given-names: Charmee
+  -
+    family-names: Vikram
+    given-names: Vikram
+
+cff-version: "1.1.0"
+date-released: 2019-06-01
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/HRithIkGowDA/Online-Voting-using-BlockChain"
+title: BlockChainVoting
+version: "v1.0"
+...

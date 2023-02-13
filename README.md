@@ -1,6 +1,6 @@
 # BlockChainVoting
 
-A blockchain-based E-voting system, created as the final year project of Vidyavardhaka College of Engineering. Teammates include me, Vikram and Mehta
+A blockchain-based E-voting system, created as the final year project of Vidyavardhaka College of Engineering. Teammates include me(Hrithik Gowda), Vikram and Mehta
 
 
 ## Build Setup
